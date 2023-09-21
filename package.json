@@ -1,0 +1,24 @@
+{
+  "name": "mysql_model_sdk",
+  "version": "1.0.0",
+  "description": "mysql model sdk for javascript project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PONDARA/mysql_model_sdk.git"
+  },
+  "keywords": [
+    "mysql",
+    "model",
+    "sdk"
+  ],
+  "author": "PONDARA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PONDARA/mysql_model_sdk/issues"
+  },
+  "homepage": "https://github.com/PONDARA/mysql_model_sdk#readme"
+}
